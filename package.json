@@ -1,0 +1,19 @@
+{
+  "name": "npm_repo",
+  "version": "1.0.0",
+  "description": "testNPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artart76/npm_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artart76/npm_repo/issues"
+  },
+  "homepage": "https://github.com/artart76/npm_repo#readme"
+}
